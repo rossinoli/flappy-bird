@@ -4,7 +4,7 @@
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-## ☕ Usando <flappy-bird>
+## ☕ Usando < flappy-bird >
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
@@ -14,7 +14,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <flappy-bird>
+## 📫 Contribuindo para < flappy-bird >
 
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
