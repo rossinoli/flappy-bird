@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#" title="Thaina rossinoli">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do thaina Rossinoli no GitHub"/><br>
         <sub>
-          <b>Thaina Rossinoli</b>
+          <b>thaina rossinoli</b>
         </sub>
       </a>
     </td>
