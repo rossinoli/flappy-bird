@@ -2,7 +2,7 @@
 
 <img src="Screenshot_1.jpg" alt="jogo">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Nesta jornada, me propus a criar este clássico mobile usando HTML, CSS e JavaScript, e o que encontrei foi muito mais do que um simples projeto de programação.
 
 ## ☕ Usando < flappy-bird >
 
