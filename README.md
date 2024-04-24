@@ -1,6 +1,6 @@
 # Flappy Bird
 
-<img src="Screenshot_1.jpg" alt="jogo">
+<img src="2flappybird.png" alt="jogo">
 
 > Nesta jornada, me propus a criar este clássico mobile usando HTML, CSS e JavaScript, e o que encontrei foi muito mais do que um simples projeto de programação.
 
