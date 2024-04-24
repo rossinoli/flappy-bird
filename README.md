@@ -12,7 +12,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="Thaina rossinoli">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do thaina Rossinoli no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/103609562?s=96&v=4" width="100px;" alt="Foto do thaina Rossinoli no GitHub"/><br>
         <sub>
           <b>thaina rossinoli</b>
         </sub>
